@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OgJicdemTY/2ovILB9Ro+sVbCld2bD6ISqrnYC/UWV8eLqCazCX9Dq2r8iB2YFMcS/tV1V1myKO4J9C6OyBUKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZAHIRA.FAIDI\\OneDrive - Akkodis\\Bureau\\TestRepoBackEnd-main\\Campaign.Service\\Campaign.Domain\\Campaign.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZAHIRA.FAIDI\\.nuget\\packages\\mongodb.bson\\2.24.0\\mongodb.bson.2.24.0.nupkg.sha512",
+    "C:\\Users\\ZAHIRA.FAIDI\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ZAHIRA.FAIDI\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\ZAHIRA.FAIDI\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\ZAHIRA.FAIDI\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\ZAHIRA.FAIDI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

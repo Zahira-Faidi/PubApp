@@ -1,0 +1,13 @@
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Domain\bin\Debug\net6.0\Campaign.Domain.deps.json
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Domain\bin\Debug\net6.0\Campaign.Domain.dll
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Domain\bin\Debug\net6.0\Campaign.Domain.pdb
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Domain\obj\Debug\net6.0\Campaign.Domain.csproj.AssemblyReference.cache
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Domain\obj\Debug\net6.0\Campaign.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Domain\obj\Debug\net6.0\Campaign.Domain.AssemblyInfoInputs.cache
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Domain\obj\Debug\net6.0\Campaign.Domain.AssemblyInfo.cs
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Domain\obj\Debug\net6.0\Campaign.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Domain\obj\Debug\net6.0\Campaign.Domain.dll
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Domain\obj\Debug\net6.0\refint\Campaign.Domain.dll
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Domain\obj\Debug\net6.0\Campaign.Domain.pdb
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Domain\obj\Debug\net6.0\ref\Campaign.Domain.dll
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Domain\obj\Debug\net6.0\Campaign.Domain.sourcelink.json

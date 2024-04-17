@@ -1,0 +1,16 @@
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\obj\Debug\net6.0\Campaign.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\obj\Debug\net6.0\Campaign.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\obj\Debug\net6.0\Campaign.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\obj\Debug\net6.0\Campaign.Infrastructure.AssemblyInfo.cs
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\obj\Debug\net6.0\Campaign.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\bin\Debug\net6.0\Campaign.Infrastructure.deps.json
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\bin\Debug\net6.0\Campaign.Infrastructure.dll
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\bin\Debug\net6.0\Campaign.Infrastructure.pdb
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\bin\Debug\net6.0\Campaign.Domain.dll
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\bin\Debug\net6.0\Campaign.Domain.pdb
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\obj\Debug\net6.0\Campaign.A267BC40.Up2Date
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\obj\Debug\net6.0\Campaign.Infrastructure.dll
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\obj\Debug\net6.0\refint\Campaign.Infrastructure.dll
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\obj\Debug\net6.0\Campaign.Infrastructure.pdb
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\obj\Debug\net6.0\ref\Campaign.Infrastructure.dll
+C:\Users\ZAHIRA.FAIDI\OneDrive - Akkodis\Bureau\TestRepoBackEnd-main\Campaign.Service\Campaign.Infrastructure\obj\Debug\net6.0\Campaign.Infrastructure.sourcelink.json
